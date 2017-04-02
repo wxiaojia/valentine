@@ -1,0 +1,4 @@
+index	主页
+pageA	第一幅画
+pageB	第二幅画
+pageC	第三幅画

@@ -1,0 +1,4 @@
+flower	花朵从天而将，随机的，通用
+qixi	各种方法
+Swipe	页面容器的大小和滚动，通用
+transit	动画，库
